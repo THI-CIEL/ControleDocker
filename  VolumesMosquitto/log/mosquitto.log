@@ -30,3 +30,30 @@
 1765446996: Sending PUBLISH to postman-mqtt-client-1765446963979 (d0, q0, r0, m0, 'TopicControle', ... (3 bytes))
 1765447056: Received PINGREQ from postman-mqtt-client-1765446963979
 1765447056: Sending PINGRESP to postman-mqtt-client-1765446963979
+1765447116: Received PINGREQ from postman-mqtt-client-1765446963979
+1765447116: Sending PINGRESP to postman-mqtt-client-1765446963979
+1765447176: Received PINGREQ from postman-mqtt-client-1765446963979
+1765447176: Sending PINGRESP to postman-mqtt-client-1765446963979
+1765447236: Received PINGREQ from postman-mqtt-client-1765446963979
+1765447236: Sending PINGRESP to postman-mqtt-client-1765446963979
+1765447296: Received PINGREQ from postman-mqtt-client-1765446963979
+1765447296: Sending PINGRESP to postman-mqtt-client-1765446963979
+1765447356: Received PINGREQ from postman-mqtt-client-1765446963979
+1765447356: Sending PINGRESP to postman-mqtt-client-1765446963979
+1765447416: Received PINGREQ from postman-mqtt-client-1765446963979
+1765447416: Sending PINGRESP to postman-mqtt-client-1765446963979
+1765447447: mosquitto version 2.0.22 terminating
+1765447449: mosquitto version 2.0.22 starting
+1765447449: Config loaded from /mosquitto/config/mosquitto.conf.
+1765447449: Opening ipv4 listen socket on port 1883.
+1765447449: Opening ipv6 listen socket on port 1883.
+1765447449: Opening websockets listen socket on port 9005.
+1765447449: mosquitto version 2.0.22 running
+1765447905: mosquitto version 2.0.22 terminating
+1765447907: mosquitto version 2.0.22 starting
+1765447907: Config loaded from /mosquitto/config/mosquitto.conf.
+1765447907: Opening ipv4 listen socket on port 1883.
+1765447907: Opening ipv6 listen socket on port 1883.
+1765447907: Opening websockets listen socket on port 9005.
+1765447907: mosquitto version 2.0.22 running
+1765447994: mosquitto version 2.0.22 terminating
