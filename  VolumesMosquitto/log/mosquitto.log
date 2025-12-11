@@ -1,0 +1,32 @@
+1765445087: mosquitto version 2.0.22 starting
+1765445087: Config loaded from /mosquitto/config/mosquitto.conf.
+1765445087: Opening ipv4 listen socket on port 1883.
+1765445087: Opening ipv6 listen socket on port 1883.
+1765445087: mosquitto version 2.0.22 running
+1765445207: mosquitto version 2.0.22 terminating
+1765445210: mosquitto version 2.0.22 starting
+1765445210: Config loaded from /mosquitto/config/mosquitto.conf.
+1765445210: Opening ipv4 listen socket on port 1883.
+1765445210: Opening ipv6 listen socket on port 1883.
+1765445210: mosquitto version 2.0.22 running
+1765445294: mosquitto version 2.0.22 terminating
+1765446948: mosquitto version 2.0.22 starting
+1765446948: Config loaded from /mosquitto/config/mosquitto.conf.
+1765446948: Opening ipv4 listen socket on port 1883.
+1765446948: Opening ipv6 listen socket on port 1883.
+1765446948: Opening websockets listen socket on port 9005.
+1765446948: mosquitto version 2.0.22 running
+1765446964: New connection from 172.20.0.1:52446 on port 1883.
+1765446964: New client connected from 172.20.0.1:52446 as postman-mqtt-client-1765446963979 (p5, c0, k60).
+1765446964: No will message specified.
+1765446964: Sending CONNACK to postman-mqtt-client-1765446963979 (0, 0)
+1765446964: Received SUBSCRIBE from postman-mqtt-client-1765446963979
+1765446964: 	TopicControle (QoS 0)
+1765446964: postman-mqtt-client-1765446963979 0 TopicControle
+1765446964: Sending SUBACK to postman-mqtt-client-1765446963979
+1765446972: Received PUBLISH from postman-mqtt-client-1765446963979 (d0, q0, r0, m0, 'TopicControle', ... (4 bytes))
+1765446972: Sending PUBLISH to postman-mqtt-client-1765446963979 (d0, q0, r0, m0, 'TopicControle', ... (4 bytes))
+1765446996: Received PUBLISH from postman-mqtt-client-1765446963979 (d0, q0, r0, m0, 'TopicControle', ... (3 bytes))
+1765446996: Sending PUBLISH to postman-mqtt-client-1765446963979 (d0, q0, r0, m0, 'TopicControle', ... (3 bytes))
+1765447056: Received PINGREQ from postman-mqtt-client-1765446963979
+1765447056: Sending PINGRESP to postman-mqtt-client-1765446963979
