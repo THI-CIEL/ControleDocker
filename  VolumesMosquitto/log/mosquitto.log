@@ -57,3 +57,193 @@
 1765447907: Opening websockets listen socket on port 9005.
 1765447907: mosquitto version 2.0.22 running
 1765447994: mosquitto version 2.0.22 terminating
+1765447996: mosquitto version 2.0.22 starting
+1765447996: Config loaded from /mosquitto/config/mosquitto.conf.
+1765447996: Opening ipv4 listen socket on port 1883.
+1765447996: Opening ipv6 listen socket on port 1883.
+1765447996: Opening websockets listen socket on port 9005.
+1765447996: mosquitto version 2.0.22 running
+1765448220: New connection from 172.20.0.1:45428 on port 1883.
+1765448220: Client <unknown> disconnected due to protocol error.
+1765448220: New connection from 172.20.0.1:45434 on port 1883.
+1765448220: Client <unknown> disconnected due to protocol error.
+1765448220: New connection from 172.20.0.1:45436 on port 1883.
+1765448220: New connection from 172.20.0.1:45450 on port 1883.
+1765448221: Client <unknown> disconnected due to protocol error.
+1765448221: Client <unknown> disconnected due to protocol error.
+1765448221: New connection from 172.20.0.1:45458 on port 1883.
+1765448221: Client <unknown> disconnected due to protocol error.
+1765448355: New client connected from ::ffff:172.20.0.1:44950 as mqttx_e28257c7 (p5, c1, k60).
+1765448355: No will message specified.
+1765448355: Sending CONNACK to mqttx_e28257c7 (0, 0)
+1765448355: Received SUBSCRIBE from mqttx_e28257c7
+1765448355: 	BTS (QoS 0)
+1765448355: mqttx_e28257c7 0 BTS
+1765448355: Sending SUBACK to mqttx_e28257c7
+1765448359: Received PUBLISH from mqttx_e28257c7 (d0, q0, r0, m0, 'BTS', ... (17 bytes))
+1765448359: Sending PUBLISH to mqttx_e28257c7 (d0, q0, r0, m0, 'BTS', ... (17 bytes))
+1765448367: Received PUBLISH from mqttx_e28257c7 (d0, q0, r0, m0, 'BTS', ... (18 bytes))
+1765448367: Sending PUBLISH to mqttx_e28257c7 (d0, q0, r0, m0, 'BTS', ... (18 bytes))
+1765448373: Received UNSUBSCRIBE from mqttx_e28257c7
+1765448373: 	BTS
+1765448373: mqttx_e28257c7 BTS
+1765448373: Sending UNSUBACK to mqttx_e28257c7
+1765448373: Received SUBSCRIBE from mqttx_e28257c7
+1765448373: 	BTS/# (QoS 0)
+1765448373: mqttx_e28257c7 0 BTS/#
+1765448373: Sending SUBACK to mqttx_e28257c7
+1765448374: Received PUBLISH from mqttx_e28257c7 (d0, q0, r0, m0, 'BTS', ... (18 bytes))
+1765448374: Sending PUBLISH to mqttx_e28257c7 (d0, q0, r0, m0, 'BTS', ... (18 bytes))
+1765448377: Received PUBLISH from mqttx_e28257c7 (d0, q0, r0, m0, 'BTS', ... (17 bytes))
+1765448377: Sending PUBLISH to mqttx_e28257c7 (d0, q0, r0, m0, 'BTS', ... (17 bytes))
+1765448438: Received PINGREQ from mqttx_e28257c7
+1765448438: Sending PINGRESP to mqttx_e28257c7
+1765448459: New connection from 172.20.0.1:34530 on port 1883.
+1765448459: Client <unknown> disconnected due to protocol error.
+1765448459: New connection from 172.20.0.1:34538 on port 1883.
+1765448459: Client <unknown> disconnected due to protocol error.
+1765448459: New connection from 172.20.0.1:34540 on port 1883.
+1765448459: New connection from 172.20.0.1:34552 on port 1883.
+1765448460: Client <unknown> disconnected due to protocol error.
+1765448460: Client <unknown> disconnected due to protocol error.
+1765448460: New connection from 172.20.0.1:34558 on port 1883.
+1765448460: Client <unknown> disconnected due to protocol error.
+1765448461: New connection from 172.20.0.1:34566 on port 1883.
+1765448461: Client <unknown> disconnected due to protocol error.
+1765448461: New connection from 172.20.0.1:34574 on port 1883.
+1765448461: Client <unknown> disconnected due to protocol error.
+1765448461: New connection from 172.20.0.1:34580 on port 1883.
+1765448461: Client <unknown> disconnected due to protocol error.
+1765448466: New connection from 172.20.0.1:43304 on port 1883.
+1765448466: Client <unknown> disconnected due to protocol error.
+1765448466: New connection from 172.20.0.1:43312 on port 1883.
+1765448466: Client <unknown> disconnected due to protocol error.
+1765448466: New connection from 172.20.0.1:43326 on port 1883.
+1765448466: Client <unknown> disconnected due to protocol error.
+1765448499: Received PINGREQ from mqttx_e28257c7
+1765448499: Sending PINGRESP to mqttx_e28257c7
+1765448560: Received PINGREQ from mqttx_e28257c7
+1765448560: Sending PINGRESP to mqttx_e28257c7
+1765448621: Received PINGREQ from mqttx_e28257c7
+1765448621: Sending PINGRESP to mqttx_e28257c7
+1765448682: Received PINGREQ from mqttx_e28257c7
+1765448682: Sending PINGRESP to mqttx_e28257c7
+1765448773: Client mqttx_e28257c7 closed its connection.
+1765448896: New client connected from ::ffff:172.20.0.1:43664 as mqttx_e28257c7 (p5, c1, k60).
+1765448896: No will message specified.
+1765448896: Sending CONNACK to mqttx_e28257c7 (0, 0)
+1765448928: New connection from ::1:43586 on port 1883.
+1765448928: New client connected from ::1:43586 as auto-5A925A55-0E9B-3EF7-4F15-D05AC5F3C03F (p2, c1, k60).
+1765448928: No will message specified.
+1765448928: Sending CONNACK to auto-5A925A55-0E9B-3EF7-4F15-D05AC5F3C03F (0, 0)
+1765448929: Received SUBSCRIBE from auto-5A925A55-0E9B-3EF7-4F15-D05AC5F3C03F
+1765448929: 	# (QoS 0)
+1765448929: auto-5A925A55-0E9B-3EF7-4F15-D05AC5F3C03F 0 #
+1765448929: Sending SUBACK to auto-5A925A55-0E9B-3EF7-4F15-D05AC5F3C03F
+1765448941: Client mqttx_e28257c7 closed its connection.
+1765448941: New client connected from ::ffff:172.20.0.1:54454 as mqttx_e28257c7 (p5, c1, k60).
+1765448941: No will message specified.
+1765448941: Sending CONNACK to mqttx_e28257c7 (0, 0)
+1765448941: Received SUBSCRIBE from mqttx_e28257c7
+1765448941: 	BTS/# (QoS 0)
+1765448941: mqttx_e28257c7 0 BTS/#
+1765448941: Sending SUBACK to mqttx_e28257c7
+1765448943: Received PUBLISH from mqttx_e28257c7 (d0, q0, r0, m0, 'BTS', ... (17 bytes))
+1765448943: Sending PUBLISH to mqttx_e28257c7 (d0, q0, r0, m0, 'BTS', ... (17 bytes))
+1765448943: Sending PUBLISH to auto-5A925A55-0E9B-3EF7-4F15-D05AC5F3C03F (d0, q0, r0, m0, 'BTS', ... (17 bytes))
+1765448948: Received DISCONNECT from auto-5A925A55-0E9B-3EF7-4F15-D05AC5F3C03F
+1765448948: Client auto-5A925A55-0E9B-3EF7-4F15-D05AC5F3C03F disconnected.
+1765449003: Received PINGREQ from mqttx_e28257c7
+1765449003: Sending PINGRESP to mqttx_e28257c7
+1765449064: Received PINGREQ from mqttx_e28257c7
+1765449064: Sending PINGRESP to mqttx_e28257c7
+1765449077: New connection from ::1:43720 on port 1883.
+1765449077: New client connected from ::1:43720 as auto-AEA262CB-742A-084D-A0F7-525D1E9ACA67 (p2, c1, k60).
+1765449077: No will message specified.
+1765449077: Sending CONNACK to auto-AEA262CB-742A-084D-A0F7-525D1E9ACA67 (0, 0)
+1765449077: Received SUBSCRIBE from auto-AEA262CB-742A-084D-A0F7-525D1E9ACA67
+1765449077: 	# (QoS 0)
+1765449077: auto-AEA262CB-742A-084D-A0F7-525D1E9ACA67 0 #
+1765449077: Sending SUBACK to auto-AEA262CB-742A-084D-A0F7-525D1E9ACA67
+1765449094: Received PUBLISH from mqttx_e28257c7 (d0, q0, r0, m0, 'BTS', ... (17 bytes))
+1765449094: Sending PUBLISH to mqttx_e28257c7 (d0, q0, r0, m0, 'BTS', ... (17 bytes))
+1765449094: Sending PUBLISH to auto-AEA262CB-742A-084D-A0F7-525D1E9ACA67 (d0, q0, r0, m0, 'BTS', ... (17 bytes))
+1765449114: Received PUBLISH from mqttx_e28257c7 (d0, q0, r0, m0, 'BTS', ... (11 bytes))
+1765449114: Sending PUBLISH to mqttx_e28257c7 (d0, q0, r0, m0, 'BTS', ... (11 bytes))
+1765449114: Sending PUBLISH to auto-AEA262CB-742A-084D-A0F7-525D1E9ACA67 (d0, q0, r0, m0, 'BTS', ... (11 bytes))
+1765449137: Received PINGREQ from auto-AEA262CB-742A-084D-A0F7-525D1E9ACA67
+1765449137: Sending PINGRESP to auto-AEA262CB-742A-084D-A0F7-525D1E9ACA67
+1765449174: Received PINGREQ from mqttx_e28257c7
+1765449174: Sending PINGRESP to mqttx_e28257c7
+1765449197: Received PINGREQ from auto-AEA262CB-742A-084D-A0F7-525D1E9ACA67
+1765449197: Sending PINGRESP to auto-AEA262CB-742A-084D-A0F7-525D1E9ACA67
+1765449235: Received PINGREQ from mqttx_e28257c7
+1765449235: Sending PINGRESP to mqttx_e28257c7
+1765449257: Received PINGREQ from auto-AEA262CB-742A-084D-A0F7-525D1E9ACA67
+1765449257: Sending PINGRESP to auto-AEA262CB-742A-084D-A0F7-525D1E9ACA67
+1765449270: Received DISCONNECT from auto-AEA262CB-742A-084D-A0F7-525D1E9ACA67
+1765449270: Client auto-AEA262CB-742A-084D-A0F7-525D1E9ACA67 disconnected.
+1765449278: mosquitto version 2.0.22 terminating
+1765449278: Client mqttx_e28257c7 closed its connection.
+1765449614: mosquitto version 2.0.22 starting
+1765449614: Config loaded from /mosquitto/config/mosquitto.conf.
+1765449614: Opening ipv4 listen socket on port 1883.
+1765449614: Opening ipv6 listen socket on port 1883.
+1765449614: Opening websockets listen socket on port 9005.
+1765449614: mosquitto version 2.0.22 running
+1765449620: New connection from 172.20.0.5:46746 on port 1883.
+1765449620: New client connected from 172.20.0.5:46746 as auto-98F93452-B83F-F979-38FA-1C486EF248F9 (p2, c1, k60).
+1765449620: No will message specified.
+1765449620: Sending CONNACK to auto-98F93452-B83F-F979-38FA-1C486EF248F9 (0, 0)
+1765449620: Received SUBSCRIBE from auto-98F93452-B83F-F979-38FA-1C486EF248F9
+1765449620: 	# (QoS 0)
+1765449620: auto-98F93452-B83F-F979-38FA-1C486EF248F9 0 #
+1765449620: Sending SUBACK to auto-98F93452-B83F-F979-38FA-1C486EF248F9
+1765449621: New client connected from ::ffff:172.20.0.1:36638 as mqttx_e28257c7 (p5, c1, k60).
+1765449621: No will message specified.
+1765449621: Sending CONNACK to mqttx_e28257c7 (0, 0)
+1765449621: Received SUBSCRIBE from mqttx_e28257c7
+1765449621: 	BTS/# (QoS 0)
+1765449621: mqttx_e28257c7 0 BTS/#
+1765449621: Sending SUBACK to mqttx_e28257c7
+1765449627: Received PUBLISH from mqttx_e28257c7 (d0, q0, r0, m0, 'BTS', ... (6 bytes))
+1765449627: Sending PUBLISH to mqttx_e28257c7 (d0, q0, r0, m0, 'BTS', ... (6 bytes))
+1765449627: Sending PUBLISH to auto-98F93452-B83F-F979-38FA-1C486EF248F9 (d0, q0, r0, m0, 'BTS', ... (6 bytes))
+1765449680: Received PINGREQ from auto-98F93452-B83F-F979-38FA-1C486EF248F9
+1765449680: Sending PINGRESP to auto-98F93452-B83F-F979-38FA-1C486EF248F9
+1765449687: Received PINGREQ from mqttx_e28257c7
+1765449687: Sending PINGRESP to mqttx_e28257c7
+1765449690: mosquitto version 2.0.22 terminating
+1765449690: Client mqttx_e28257c7 closed its connection.
+1765449696: mosquitto version 2.0.22 starting
+1765449696: Config loaded from /mosquitto/config/mosquitto.conf.
+1765449696: Opening ipv4 listen socket on port 1883.
+1765449696: Opening ipv6 listen socket on port 1883.
+1765449696: Opening websockets listen socket on port 9005.
+1765449696: mosquitto version 2.0.22 running
+1765449697: New client connected from ::ffff:172.20.0.1:33760 as mqttx_e28257c7 (p5, c1, k60).
+1765449697: No will message specified.
+1765449697: Sending CONNACK to mqttx_e28257c7 (0, 0)
+1765449697: Received SUBSCRIBE from mqttx_e28257c7
+1765449697: 	BTS/# (QoS 0)
+1765449697: mqttx_e28257c7 0 BTS/#
+1765449697: Sending SUBACK to mqttx_e28257c7
+1765449699: New connection from 172.20.0.4:42948 on port 1883.
+1765449699: New client connected from 172.20.0.4:42948 as auto-A319811D-AD3E-DC6F-707F-628678AAD4AD (p2, c1, k60).
+1765449699: No will message specified.
+1765449699: Sending CONNACK to auto-A319811D-AD3E-DC6F-707F-628678AAD4AD (0, 0)
+1765449699: Received SUBSCRIBE from auto-A319811D-AD3E-DC6F-707F-628678AAD4AD
+1765449699: 	# (QoS 0)
+1765449699: auto-A319811D-AD3E-DC6F-707F-628678AAD4AD 0 #
+1765449699: Sending SUBACK to auto-A319811D-AD3E-DC6F-707F-628678AAD4AD
+1765449700: Client mqttx_e28257c7 closed its connection.
+1765449703: New client connected from ::ffff:172.20.0.1:33772 as mqttx_e28257c7 (p5, c1, k60).
+1765449703: No will message specified.
+1765449703: Sending CONNACK to mqttx_e28257c7 (0, 0)
+1765449703: Received SUBSCRIBE from mqttx_e28257c7
+1765449703: 	BTS/# (QoS 0)
+1765449703: mqttx_e28257c7 0 BTS/#
+1765449703: Sending SUBACK to mqttx_e28257c7
+1765449710: Received PUBLISH from mqttx_e28257c7 (d0, q0, r0, m0, 'BTS', ... (6 bytes))
+1765449710: Sending PUBLISH to mqttx_e28257c7 (d0, q0, r0, m0, 'BTS', ... (6 bytes))
+1765449710: Sending PUBLISH to auto-A319811D-AD3E-DC6F-707F-628678AAD4AD (d0, q0, r0, m0, 'BTS', ... (6 bytes))

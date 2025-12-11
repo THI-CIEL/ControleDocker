@@ -19,3 +19,51 @@ services:
       - "8082:80"
     depends_on:
       - mqtt_broker
+
+
+
+
+
+
+
+
+version: '3.8'
+
+services:
+  mqtt_broker:
+    image: eclipse-mosquitto
+    container_name: mqtt_mosquitto
+    ports:
+      - "1883:1883"
+      - "9005:9005"
+    volumes:
+      - ./ VolumesMosquitto/config:/mosquitto/config
+      - ./ VolumesMosquitto/data:/mosquitto/data
+      - ./ VolumesMosquitto/log:/mosquitto/log
+
+  mqtt_clientweb:
+    image: emqx/mqttx-web
+    container_name: mqtt_mqttx-web
+    ports:
+      - "8082:80"
+    depends_on:
+      - mqtt_broker
+
+  portainer:
+    image: portainer/portainer-ce:alpine
+    container_name: mqtt_portainer
+    command: -H unix:///var/run/docker.sock
+    ports:
+      - "8083:9000"
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - portainer_data:/data
+    restart: always
+
+volumes:
+  portainer_data:
+
+
+
+
+
